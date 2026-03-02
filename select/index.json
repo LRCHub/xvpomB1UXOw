@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カメラロール",
+  "base_artist": "とた",
+  "createdAt": "2026-03-02T00:04:59.083708Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カメラロール",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_カメラロール_とた.txt"
+    }
+  ]
+}
